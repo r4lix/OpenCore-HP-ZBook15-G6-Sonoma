@@ -1,5 +1,5 @@
 # OpenCore-HP-ZBook15-G6-Sonoma
-This repo contains the files and scripts to install macOS Ventura on the Lenovo X270 20K5  
+This repo contains the files and scripts to install macOS Sonoma on the HP ZBook 15  G6  
 You need to patch your systems own [DSDT](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-methods/ssdt-methods.html).  
 SMBIOS : MacBookPro16,1 (MacBook Pro Retina, 16-inch, Mid-2019)  
 
