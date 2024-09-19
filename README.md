@@ -31,18 +31,19 @@ SMBIOS : MacBookPro16,1 (MacBook Pro Retina, 16-inch, Mid-2019)
 - [x] Battery
 - [x] All USB ports
 - [x] Intel Ethernet port
+- [x] WiFi
+- [x] Audio
 - [x] Internal camera (including Facetime)
 - [x] Trackpad (including gestures)
 - [x] Shutdown / Reboot / Sleep
 - [x] Keyboard (fn keys not working right now)
-- [x] Wi-Fi
 - [x] Sleep / Wake (lid sleep and lid wake)
 
 # What's not working ⚠️
 - [ ] Fn Keys
-- [ ] Audio
 - [ ] Bluetooth
 - [ ] Trackpad a bit weird
+- [ ] Internal Mic
 
 # In testing ⚠️
 - [ ] Audio Jack
